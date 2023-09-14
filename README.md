@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshrounder
+- 👋 Hi, I’m Harsh Kumar
 - 👀 I’m interested in machine learning , artificial intelligence and software development.
 - 🌱 I’m currently learning  data engineering and software development
 -
